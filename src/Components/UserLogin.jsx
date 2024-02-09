@@ -24,7 +24,7 @@ const UserLogin = () => {
                     "Email": "",
                     "Password": ""
                 })
-                window.location.href="/viewresume"
+                window.location.href="/viewpost"
             
         } else {
             alert("Invalid Email or Password")
