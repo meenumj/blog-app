@@ -24,7 +24,7 @@ const UserLogin = () => {
                     "Email": "",
                     "Password": ""
                 })
-                window.location.href="/viewpost"
+                window.location.href="/addpost"
             
         } else {
             alert("Invalid Email or Password")
